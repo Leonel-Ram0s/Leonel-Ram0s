@@ -4,7 +4,7 @@
 
 - Estou aprendendo atualmente Kotlin, JavaScript, HTML e CSS :trident: 
 
-- Pretendo entrar na carreira Militar como Sargento :brazil: 
+-  :brazil: Patriota!
 
 - "Aim for the stars, if I miss, I've already hit the moon"
 
