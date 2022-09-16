@@ -1,4 +1,4 @@
-# Paz, Me chamo Leonel 	:ghost: 	:zap: 	:trident: 
+# Me chamo Leonel 	:ghost: 	:zap: 	:trident: 
 
 - Atualmente estou fazendo o curso __Técnico de Desenvolvimento de Sistemas__  
 
